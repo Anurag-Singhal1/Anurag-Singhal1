@@ -37,6 +37,6 @@ I am an enthusiastic Indian self-taught frontend developer and problem solver. I
 
 ## **Reach out to me :** 📫
   <p>
-    <a target="_blank"href="linkedin.com/in/anurag-singhal-b6a4a9237"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;t
+    <a target="_blank"href="https://www.linkedin.com/in/anurag-singhal-b6a4a9237/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;t
     <a href="mailto: anuragsinghal811@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
