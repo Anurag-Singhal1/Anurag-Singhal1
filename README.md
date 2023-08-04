@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on Web Dev Projects
 - 💬 Ask me about Frontend developement
-- 📫 How to reach me: @anuragsinghal on Twitter
 
 ## **About Me :** 👦
 I am an enthusiastic Indian self-taught frontend developer and problem solver. I am a motivated individual with a strong passion for frontend development and data structures and algorithms, who has achieved self-taught proficiency in both areas.
